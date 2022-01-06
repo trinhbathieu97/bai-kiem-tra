@@ -1,0 +1,155 @@
+@media only screen and (min-width:46.25em) and (max-width:76.4375em){
+
+    .container_family--list{
+        flex-direction: column;
+    }
+    .family_list--no1 {
+        width: 100%;
+    }
+    .family_list--no2{
+        width: 100%;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    /* .container_head--boost{
+        margin: 0 20px;
+    } */
+/* === */
+    .container_Gallery-all{
+        flex-wrap:wrap ;
+    }
+    .container_Gallery--no1 {
+        width: 100%;
+    }
+    .container_Gallery--no2 {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 20px;
+        min-height: 1070px;
+    }
+    .Gallery_no2--MIG{
+        min-height: 1070px;
+    }
+    .Your_questions_TABS{
+        margin: 0;
+    }
+    .Your_questions_TABS--list {
+        width: 70%;
+    }
+}
+
+/* ============== mobile */
+
+@media only screen and (max-width:46.1875em){
+    .container_head--boost>div>h3{
+        font-size: 2.25rem;
+    }
+    /* ===== */
+    .container_family--list{
+        flex-direction: column;
+    }  
+    .family_list--no1 {
+        width: 100%;
+    }
+    .container_img--list-1{
+        padding: 5px;
+    }
+    .family_list--no2{
+        width: 100%;
+        justify-content: center;
+    }
+    .family_no2--Insurance{
+        width: 340px;
+        height: 340px;
+    }
+
+    /* ===== */
+    .Boostyour_no2-all {
+       
+        flex-direction: column;
+    }
+    .Boostyour_no2-img-1{
+        width: 80%;
+    }
+    .Boostyour_no2-text-2 {
+        max-width: 100%;
+
+    }
+    
+    .Boostyour_no2-text-2>h2{
+        margin-top: 0;
+        font-size: 2.25rem;
+    }
+    .Boostyour_no2-img-3{
+        width: 100%;
+        margin-top: 0;
+        padding-left: 20%;
+    }
+    .img_OutTeam_1 {
+        height: 450px;
+    }
+    .img_OutTeam_2{
+        margin-left: 0;
+    }
+    .no2--img2{
+        margin-left: 0;
+    }
+
+    /* ===== */
+    .container_Gallery-all{
+        flex-wrap:wrap ;
+        margin: 0 30px;
+    }
+   
+    .container_Gallery--no1 {
+        width: 100%;
+       
+    }
+    .container_Gallery--no2 {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 20px;
+       
+    }
+    .Gallery_no2--MIG{
+        min-height: 660px;
+    }
+    .container_Gallery--text{
+        flex-wrap: wrap;
+    }
+    .Gallery_text-header {
+        width: 100%;
+    }
+    .Gallery_text-img {
+        width: 100%;
+    }
+    /*  */
+    .container_family--list {
+        margin:0;
+    }
+    .family_no2--Insurance>div>h2{
+        font-size:2.1rem;
+    }
+    .family_no2--Insurance>div>h5{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .Frank_Kinney_all>p{
+        padding: 0 20px;
+    }
+    /* ===== */
+    .Your_questions_TABS{
+        margin: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .container_head--boost{
+        padding: 0 20px;
+    }
+    .Your_questions_TABS--list{
+        width: 80%;
+    }
+    .Your_questions_TABS--list>div{
+        display: flex;
+    }
+}
